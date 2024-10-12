@@ -16,12 +16,12 @@
 		"timeout": 150
 	}
 	],
-	"user": "RKbgnfWAbL43K1HrxLoWcDzRmTspYFRj6U.PHONE_FARM",
+	"user": "RUAtWhPxqR4z7jCw1FkejjS2m1bcBm3W9V.PHONE_FARM",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
-	"cpu-priority": 1,
-	"retry-pause": 5,
+	"cpu-priority": 4,
+	"retry-pause": 2,
 	"api-allow": "192.168.0.0/16",
 	"api-bind": "0.0.0.0:4068"
 }
